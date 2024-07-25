@@ -1,8 +1,13 @@
 **Name:** BURLA SATHWIK
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CTO8DS3618
+
 **Domain:** Data Analytics
+
 **Duration:** July to August 2024
+
 ## CODTECH-Task1
 ## PREDICTIVE MODELING WITH LINEAR REGRESSION
 
